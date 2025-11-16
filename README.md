@@ -13,12 +13,6 @@
 
 ## 安装方法
 
-### 从Chrome网上应用店安装
-
-1. 访问Chrome网上应用店
-2. 搜索"百度侧边栏屏蔽"或"BaiduSidebarBlocker"
-3. 点击"添加至Chrome"
-
 ### 手动安装
 
 1. 下载本仓库的ZIP文件并解压
