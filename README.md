@@ -1,4 +1,4 @@
-# 百度侧边栏屏蔽 (BaiduSidebarBlocker)
+# 百度侧边栏屏蔽 (baidu-sidebar-cleaner)
 
 ## 简介
 
